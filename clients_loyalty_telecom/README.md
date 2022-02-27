@@ -1,4 +1,4 @@
-# Проект «Телеком». Поиск клиентов с неоптимальными тарифами**
+# Проект «Телеком». Поиск клиентов с неоптимальными тарифами
 
 ## С проектом наиболее удобно можно ознакомиться на резурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/clients_loyalty_telecom/clients_loyalty_telecom.ipynb)
 

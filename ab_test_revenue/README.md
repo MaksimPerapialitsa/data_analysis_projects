@@ -1,6 +1,6 @@
 # A/B-тест
 
-## С проектом наиболее удобно ознакомиться на резурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/ab_test_revenue/ab_test_revenue.ipynb)
+## С проектом наиболее удобно можно ознакомиться на резурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/ab_test_revenue/ab_test_revenue.ipynb)
 
 **Целью проекта** является поиск возможных путей увеличения выручки интернет-магазина с помощью A/B-теста наиболее перспективной гипотезы по развитию сервиса.
 

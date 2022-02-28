@@ -1,5 +1,5 @@
 # Оценка результатов A/B-теста
-## С проектом наиболее удобно можно ознакомиться на резурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/ab_test_recommend_sys/ab_test_recommend_sys.ipynb)
+## С проектом наиболее удобно можно ознакомиться на реcурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/ab_test_recommend_sys/ab_test_recommend_sys.ipynb)
 ## Постановка цели
 
 Цель проекта — провести оценку результатов A/B-теста. Целью проведения эксперимента является оценка влияния внедрения улучшенной рекомендательной системы на поведение пользователей e-commerce площадки.

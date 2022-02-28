@@ -1,6 +1,6 @@
 # Анализ метрик Яндекс.Афиши
 
-## С проектом наиболее удобно можно ознакомиться на резурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/business_metrics/business_metrcis.ipynb)
+## С проектом наиболее удобно можно ознакомиться на реcурсе [nbviewer.org](https://nbviewer.org/github/MaksimPerapialitsa/data_analysis_projects/blob/main/business_metrics/business_metrcis.ipynb)
 
 **Цель проекта**: предложить пути снижения расходов через отказ от невыгодных источников трафика и перераспределение бюджета. Есть данные Яндекс.Афиши с июня 2017 по конец мая 2018 года:
 - лог сервера с данными о посещениях сайта Яндекс.Афиши,
